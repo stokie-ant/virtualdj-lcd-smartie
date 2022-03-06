@@ -1,0 +1,6 @@
+
+vdj_lcdsmartie/.vs
+*.bak
+vdj-smartie-plugin/backup
+vdj-smartie-plugin/fuo
+*.dll
